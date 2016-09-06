@@ -29,8 +29,8 @@ header{
 }
 
 .container div{
-	height: 120px;
-	padding: 10px;
+	height: auto;
+	padding: 20px;
 }
 
 button{
